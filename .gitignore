@@ -8,7 +8,8 @@ __pycache__/
 build/*
 _C.*
 outputs/*
-checkpoints/*.pt
+checkpoints/
+gdino_checkpoints/
 *test*
 # Byte-compiled / optimized / DLL files
 __pycache__/
